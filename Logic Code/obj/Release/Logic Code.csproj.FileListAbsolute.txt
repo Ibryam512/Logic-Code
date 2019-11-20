@@ -1,0 +1,12 @@
+C:\Users\Ibryam\Desktop\Logic Code\Logic Code\bin\Release\ImagesWIthLogic.resx
+C:\Users\Ibryam\Desktop\Logic Code\Logic Code\bin\Release\Logic Code.exe.config
+C:\Users\Ibryam\Desktop\Logic Code\Logic Code\bin\Release\Logic Code.exe
+C:\Users\Ibryam\Desktop\Logic Code\Logic Code\bin\Release\CircularProgressBar.dll
+C:\Users\Ibryam\Desktop\Logic Code\Logic Code\bin\Release\WinFormAnimation.dll
+C:\Users\Ibryam\Desktop\Logic Code\Logic Code\obj\Release\Logic_Code.ImagesWIthLogic.resources
+C:\Users\Ibryam\Desktop\Logic Code\Logic Code\obj\Release\Logic_Code.MainForm.resources
+C:\Users\Ibryam\Desktop\Logic Code\Logic Code\obj\Release\Logic Code.csproj.GenerateResource.cache
+C:\Users\Ibryam\Desktop\Logic Code\Logic Code\obj\Release\Logic Code.exe
+C:\Users\Ibryam\Desktop\Logic Code\Logic Code\obj\Release\Logic Code.csproj.CoreCompileInputs.cache
+C:\Users\Ibryam\Desktop\Logic Code\Logic Code\obj\Release\Logic Code.csproj.CopyComplete
+C:\Users\Ibryam\Desktop\Logic Code\Logic Code\obj\Release\Logic Code.csprojAssemblyReference.cache

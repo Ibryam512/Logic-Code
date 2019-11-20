@@ -1,0 +1,38 @@
+C:\Users\pchome\Documents\SharpDevelop Projects\Logic Code\Logic Code\bin\Debug\Logic Code.exe.config
+C:\Users\pchome\Documents\SharpDevelop Projects\Logic Code\Logic Code\bin\Debug\Logic Code.exe
+C:\Users\pchome\Documents\SharpDevelop Projects\Logic Code\Logic Code\bin\Debug\Logic Code.pdb
+C:\Users\pchome\Documents\SharpDevelop Projects\Logic Code\Logic Code\obj\Debug\Logic Code.csprojResolveAssemblyReference.cache
+C:\Users\pchome\Documents\SharpDevelop Projects\Logic Code\Logic Code\obj\Debug\Logic_Code.MainForm.resources
+C:\Users\pchome\Documents\SharpDevelop Projects\Logic Code\Logic Code\obj\Debug\Logic Code.csproj.GenerateResource.Cache
+C:\Users\pchome\Documents\SharpDevelop Projects\Logic Code\Logic Code\obj\Debug\Logic Code.exe
+C:\Users\pchome\Documents\SharpDevelop Projects\Logic Code\Logic Code\obj\Debug\Logic Code.pdb
+C:\Users\pchome\Documents\SharpDevelop Projects\Logic Code\Logic Code\obj\Debug\Logic_Code.ImagesWIthLogic.resources
+C:\Users\pchome\Documents\SharpDevelop Projects\Logic Code\Logic Code\bin\Debug\ImagesWIthLogic.resx
+C:\Users\Ibryam\Desktop\Logic Code\Logic Code\bin\Debug\ImagesWIthLogic.resx
+C:\Users\Ibryam\Desktop\Logic Code\Logic Code\bin\Debug\Logic Code.exe.config
+C:\Users\Ibryam\Desktop\Logic Code\Logic Code\bin\Debug\Logic Code.exe
+C:\Users\Ibryam\Desktop\Logic Code\Logic Code\bin\Debug\Logic Code.pdb
+C:\Users\Ibryam\Desktop\Logic Code\Logic Code\obj\Debug\Logic_Code.ImagesWIthLogic.resources
+C:\Users\Ibryam\Desktop\Logic Code\Logic Code\obj\Debug\Logic_Code.MainForm.resources
+C:\Users\Ibryam\Desktop\Logic Code\Logic Code\obj\Debug\Logic Code.csproj.GenerateResource.Cache
+C:\Users\Ibryam\Desktop\Logic Code\Logic Code\obj\Debug\Logic Code.exe
+C:\Users\Ibryam\Desktop\Logic Code\Logic Code\obj\Debug\Logic Code.pdb
+C:\Users\Ibryam\Desktop\Logic Code\Logic Code\bin\Debug\CircularProgressBar.dll
+C:\Users\Ibryam\Desktop\Logic Code\Logic Code\bin\Debug\WinFormAnimation.dll
+E:\Logic Code\Logic Code\obj\Debug\Logic Code.csprojAssemblyReference.cache
+E:\Logic Code\Logic Code\obj\Debug\Logic_Code.ImagesWIthLogic.resources
+E:\Logic Code\Logic Code\obj\Debug\Logic_Code.MainForm.resources
+E:\Logic Code\Logic Code\obj\Debug\Logic Code.csproj.GenerateResource.cache
+E:\Logic Code\Logic Code\obj\Debug\Logic Code.csproj.CoreCompileInputs.cache
+E:\Logic Code\Logic Code\obj\Debug\Logic Code.exe
+E:\Logic Code\Logic Code\obj\Debug\Logic Code.pdb
+E:\Logic Code\Logic Code\bin\Debug\ImagesWIthLogic.resx
+E:\Logic Code\Logic Code\bin\Debug\Logic Code.exe.config
+E:\Logic Code\Logic Code\bin\Debug\Logic Code.exe
+E:\Logic Code\Logic Code\bin\Debug\Logic Code.pdb
+E:\Logic Code\Logic Code\bin\Debug\CircularProgressBar.dll
+E:\Logic Code\Logic Code\bin\Debug\WinFormAnimation.dll
+E:\Logic Code\Logic Code\obj\Debug\Logic Code.csproj.CopyComplete
+C:\Users\Ibryam\Desktop\Logic Code\Logic Code\obj\Debug\Logic Code.csprojAssemblyReference.cache
+C:\Users\Ibryam\Desktop\Logic Code\Logic Code\obj\Debug\Logic Code.csproj.CoreCompileInputs.cache
+C:\Users\Ibryam\Desktop\Logic Code\Logic Code\obj\Debug\Logic Code.csproj.CopyComplete
